@@ -1,0 +1,26 @@
+{
+	"Accountability":{
+		"risks":["R1","R3","R5","R6","R7"]
+		},
+	"Audibility":{
+		"risks":["R1","R3","R6","R7","R8"]
+		},
+	"Authenticity":{
+		"risks":["R3","R4","R5","R8"]
+	},
+	"Availability":{
+		"risks":["R1","R2","R4","R7","R8","R9"]
+		},
+	"Confidentiality":{
+		"risks":["R1","R3","R4","R5","R7"]
+		},
+	"Integrity":{
+		"risks":["R1","R3","R4","R5","R7"]
+		},
+	"Non-repudiation":{
+		"risks":["R1","R7"]
+		},
+	"Privacy":{
+		"risks":["R1","R2","R3","R5","R6","R8"]
+	}
+}
